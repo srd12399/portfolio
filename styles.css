@@ -592,8 +592,9 @@ ul::scroll-button(right) {
 
 .carousel-text {
     font-family: ‘Plantagenet Cherokee Regular’; 
-    color: #fff;
+    color: #814D51;
     padding-top: 10px;
+    font-size: 12px;
 }
 
 @media screen and (min-width: 100px) and (max-width: 900px) {
